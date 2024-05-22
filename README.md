@@ -1,7 +1,7 @@
 Hi there 👋
 # I'm Mariel
 
-I'm a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I have always had a passion in designing and creating piece for the funs.
+I'm a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I have always had a passion in designing and creating pieces for the funs.
 
 <!--
 **jayceemariel/jayceemariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
