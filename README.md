@@ -3,6 +3,7 @@ Hi there 👋
 
 I'm a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I have always had a passion in designing and creating pieces for the funs.
 
+During 2022, I collaborated with @ezerssss in creating a UI design for the batch Palanca. You can find the UI [Here](https://github.com/ezerssss/Gayang-Mingor-Palanca).
 <!--
 **jayceemariel/jayceemariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
