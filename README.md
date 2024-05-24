@@ -1,9 +1,13 @@
 Hi there 👋
 # I'm Mariel
 
-I'm a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I have always had a passion in designing and creating pieces for the funs.
+I'm a sophomore at Ateneo de Manila University currently taking BS Management Information Systems (BS MIS) as my undergrad. I have always had a passion in designing and creating pieces for the funs.
 
-During 2022, I collaborated with @ezerssss in creating a UI design for the batch Palanca. You can find the UI [Here](https://github.com/ezerssss/Gayang-Mingor-Palanca).
+During 2022, I collaborated with @ezerssss in creating a UI design for the batch Palanca. You can find the UI [Here](https://github.com/ezerssss/Gayang-Mingor-Palanca). Around that same year I've briefly worked on creating a Job-Level Maintenance Management App tasked to make things easier for a company, also mainly focusing on the UI aspect of the design. These exposures gradualy led me to take MIS as my course, and perhaps maybe somewhere eventually leading to working in the Frontlines for the Frontend industry in IT.
+
+When I am not designing or building websites, I dable into other creative prospects such as drawing and painting. I also like to readbooks, photography, video edit and many more!
+
+
 <!--
 **jayceemariel/jayceemariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
