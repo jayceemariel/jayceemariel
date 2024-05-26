@@ -2,7 +2,7 @@
 
 🌱 During 2022, I collaborated with @ezerssss in creating a UI design for the batch Palanca. You can find the UI [Here](https://github.com/ezerssss/Gayang-Mingor-Palanca). Around that same year I've briefly worked on creating a Job-Level Maintenance Management App tasked to make things easier for the company, also mainly focusing on the UI aspect of the design. These exposures gradualy led me to take MIS as my course, and perhaps maybe somewhere in the IT industry.
 
-🔭 At the moment, I'm doing my best to focus on my studies and passionately pursuing personal projects I've always dreamed of. I'm taking the time to work at my own pace, ensuring each step gets by somewhere.
+🔭 At the moment, I'm doing my best to focus on my studies and passionately pursuing personal projects I've always dreamed of. I'm taking the time to work at my own pace, hoping that it gets to somewhere.
 
 
 <!--
